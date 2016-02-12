@@ -164,20 +164,30 @@ ul {
 }
 .signupsection {
   background: #f9e42e;
-  height: 50px;
-  text-align: center;
-  padding: 50px;
+  height: 75px;
 }
 
-.signup   {
-  color: white;
-  background: #033048;
-  width: 100px;
-
+.signup {
+  background:  #033048;
+  border: 5px;
+  border-bottom-left-radius: 5px;
+  border-bottom-right-radius: 5px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  margin: 100px 200px;
+  color: #ffe;
+  font-size: 12px;
+  font-weight: 900;
+  width: 150px;
+  height: 35px;
+  text-align: center;
+  padding: 6px;
+  text-decoration: none;
 }
 
 footer {
-    background: black;
+    background: #121212;
+    height: 300px;
 
 }
 
