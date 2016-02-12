@@ -63,7 +63,7 @@ body {
 #container {
   width: 50%;
   margin: auto;
-  height: 500px;
+  height: 100%;
 }
 
 #logo {
@@ -161,6 +161,19 @@ ul {
   padding: 0 180px;
   font-weight: 600;
   margin: 10px;
+}
+.signupsection {
+  background: #f9e42e;
+  height: 50px;
+  text-align: center;
+  padding: 50px;
+}
+
+.signup   {
+  color: white;
+  background: #033048;
+  width: 100px;
+
 }
 
 footer {
